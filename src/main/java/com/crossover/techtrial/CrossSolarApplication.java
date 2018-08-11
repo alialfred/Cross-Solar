@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class CrossSolarApplication {
 
-  public static void main(String[] args) {
-    SpringApplication.run(CrossSolarApplication.class, args);
-  }
+    public static void main(String[] args) {
+        SpringApplication.run(CrossSolarApplication.class, args);
+    }
 
 }
